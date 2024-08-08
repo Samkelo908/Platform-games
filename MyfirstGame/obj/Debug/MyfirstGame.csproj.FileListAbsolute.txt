@@ -1,0 +1,15 @@
+C:\Users\lab_services_student\source\repos\MyfirstGame\MyfirstGame\bin\Debug\MyfirstGame.exe.config
+C:\Users\lab_services_student\source\repos\MyfirstGame\MyfirstGame\bin\Debug\MyfirstGame.exe
+C:\Users\lab_services_student\source\repos\MyfirstGame\MyfirstGame\bin\Debug\MyfirstGame.pdb
+C:\Users\lab_services_student\source\repos\MyfirstGame\MyfirstGame\obj\Debug\MyfirstGame.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\MyfirstGame\MyfirstGame\obj\Debug\MyfirstGame.Form1.resources
+C:\Users\lab_services_student\source\repos\MyfirstGame\MyfirstGame\obj\Debug\MyfirstGame.Properties.Resources.resources
+C:\Users\lab_services_student\source\repos\MyfirstGame\MyfirstGame\obj\Debug\MyfirstGame.csproj.GenerateResource.cache
+C:\Users\lab_services_student\source\repos\MyfirstGame\MyfirstGame\obj\Debug\MyfirstGame.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\MyfirstGame\MyfirstGame\obj\Debug\MyfirstGame.exe
+C:\Users\lab_services_student\source\repos\MyfirstGame\MyfirstGame\obj\Debug\MyfirstGame.pdb
+C:\Users\lab_services_student\source\repos\MyfirstGame\MyfirstGame\bin\Debug\Interop.WMPLib.dll
+C:\Users\lab_services_student\source\repos\MyfirstGame\MyfirstGame\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\lab_services_student\source\repos\MyfirstGame\MyfirstGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\lab_services_student\source\repos\MyfirstGame\MyfirstGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\lab_services_student\source\repos\MyfirstGame\MyfirstGame\obj\Debug\MyfirstGame.csproj.ResolveComReference.cache
